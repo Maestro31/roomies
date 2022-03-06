@@ -1,0 +1,25 @@
+{
+  "register_screen": {
+    "placeholders": {
+      "email": "Email *",
+      "firstname": "Prénom *",
+      "lastname": "Nom *",
+      "password": "Mot de passe *",
+      "confirm_password": "Confirmation *"
+    },
+    "cta": {
+      "signin": "J'ai déjà un compte",
+      "signup": "Créer mon compte"
+    }
+  },
+  "login_screen": {
+    "placeholders": {
+      "email": "Email *",
+      "password": "Mot de passe *"
+    },
+    "cta": {
+      "signup": "Je n'ai pas encore de compte",
+      "signin": "Se connecter"
+    }
+  }
+}
